@@ -31,7 +31,7 @@ To test signup on browser, go to:
 ## Examples of usage
 
 `http://localhost:8000/accounts/signup/`
-If the list is empty, run these commands to create and index data:
+for signup:
 
 ## Links
 
